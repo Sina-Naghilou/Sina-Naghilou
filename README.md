@@ -1,18 +1,64 @@
-# 💫 About Me:
-Hey! I’m Sina.<br>I mainly do Front-end, and I also work a bit with Back-end.<br>Tech: HTML/CSS, JavaScript, PHP, WordPress, Python.<br>Always learning and improving one project at a time 🚀
+<div align="center">
 
+  <h1>Hi there, I'm Sina Naghilou 👋</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sina_naghilou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sina-naghilou) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sina_naghilou) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sinanagiloo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinanagilooo@gmail.com) 
+  <h3>💻 Operating Systems Core Developer & 🎓 Computer Engineering Student</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sina-Naghilou&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sina-Naghilou&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sina-Naghilou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=238636&center=true&vCenter=true&width=550&lines=OS+Kernels+%26+macOS+Core+Operations;C%2B%2B%2C+Swift+%26+System+Programming;Hackintoshing+%26+Hardware+Troubleshooting;Linux+Administration+(LPIC-1)+%26+Networking" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <!-- Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Education-Computer%20Eng.%20%40%20AUT-00599C?style=for-the-badge&logo=education&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-macOS%20%26%20Linux%20Core-3DDC84?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-238636?style=for-the-badge" />
+  </p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sina-Naghilou&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>🚀 About Me</h2>
+
+* 🎓 **Education:** B.Sc. Student in **Computer Engineering** at **Urmia University of Technology**
+* 🖥️ **Current Roles:** 
+  * **DevOps** @ Freelancer
+  * **Freelance Programmer**
+* 🗣️ **Languages:** Persian , English, Azeri
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+| Category | Technologies, Frameworks & Tools |
+| :--- | :--- |
+| **Languages** | `C++` `C#` `CSS3` `HTML5` `JavaScript` `PHP` `Python` |
+| **CMS** | `WordPress` |
+| **Design & Creative Tools** | `Adobe After Effects` `Adobe Photoshop` `Figma` |
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+  <a href="mailto:naghilusina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-naghilusina%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/sina_ngl">
+    <img src="https://img.shields.io/badge/Telegram-%40sina_ngl-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <sub>⚡ "Bridging the gap between raw hardware and operating system kernels." ⚡</sub>
+
+</div>
